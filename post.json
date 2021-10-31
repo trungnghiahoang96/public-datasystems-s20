@@ -1,0 +1,18 @@
+{
+  "args": {
+    "a": "1", 
+    "b": "2"
+  }, 
+  "data": "", 
+  "files": {}, 
+  "form": {}, 
+  "headers": {
+    "Accept": "*/*", 
+    "Host": "httpbin.org", 
+    "User-Agent": "curl/7.68.0", 
+    "X-Amzn-Trace-Id": "Root=1-617b8ab3-748b098e6244acbd2b72e855"
+  }, 
+  "json": null, 
+  "origin": "14.182.14.80", 
+  "url": "http://httpbin.org/post?a=1&b=2"
+}
