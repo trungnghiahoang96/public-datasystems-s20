@@ -1,0 +1,44 @@
+{
+   "CAN": {
+      "country": "Canada",
+      "pop": 36.26,
+      "gdp": 1535.77,
+      "life": 82.3,
+      "cell": 30.75
+   },
+   "CHN": {
+      "country": "China",
+      "pop": 1378.66,
+      "gdp": 11199.15,
+      "life": 76.25,
+      "cell": 1364.93
+   },
+   "IND": {
+      "country": "India",
+      "pop": 1324.17,
+      "gdp": 2263.79,
+      "life": 68.56,
+      "cell": 1127.81
+   },
+   "RUS": {
+      "country": "Russia",
+      "pop": 144.34,
+      "gdp": 1283.16,
+      "life": 71.59,
+      "cell": 229.13
+   },
+   "USA": {
+      "country": "United States",
+      "pop": 323.13,
+      "gdp": 18624.47,
+      "life": 78.69,
+      "cell": 395.88
+   },
+   "VNM": {
+      "country": "Vietnam",
+      "pop": 94.57,
+      "gdp": 205.28,
+      "life": 76.25,
+      "cell": 120.6
+   }
+}
